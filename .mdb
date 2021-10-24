@@ -1,0 +1,11 @@
+{
+  "projectName": "mdb5-free-standard",
+  "meta": {
+    "starter": "mdb5-free-standard",
+    "type": "backend"
+  },
+  "hash": "4ac34a3c",
+  "backend": {
+    "platform": "node12"
+  }
+}
